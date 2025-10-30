@@ -1,4 +1,4 @@
-# 🧪 Performance Task - JMeter Automation Project
+# 🧪 Performance Task - JMeter Project
 
 
 sections:
